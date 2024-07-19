@@ -8,7 +8,7 @@ Hello! I'm a passionate developer with a strong foundation in computer science a
 
 - **[Data Preparation Tool](https://github.com/williamdwinnell/task_zero)**: I developed a comprehensive data preparation tool designed to streamline the data cleaning and preprocessing workflow. This tool aims to assist data scientists and analysts in handling large datasets more efficiently, ensuring high-quality data for analysis and model training.
 
-- **[Human-like Chess Engine with Q-LoRA](https://github.com/yourusername/chess-engine-q-lora)**: One of my notable projects is a chess engine that mimics human-like decision-making using Q-LoRA (Quantized Low-Rank Adaptation). This engine employs advanced reinforcement learning techniques to learn and adapt its strategies, providing a challenging and realistic experience for players.
+- **[Human-like Chess Engine with Q-LoRA](https://github.com/williamdwinnell/CapstoneChess)**: One of my notable projects is a chess engine that mimics human-like decision-making using Q-LoRA (Quantized Low-Rank Adaptation). This engine employs advanced reinforcement learning techniques to learn and adapt its strategies, providing a challenging and realistic experience for players.
 
 ### Technical Skills
 
