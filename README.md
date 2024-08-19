@@ -4,7 +4,7 @@ Hello! I'm a passionate developer with a strong foundation in computer science a
 
 ### Key Interests and Projects
 
-- **Mathematics and Data Science**: My academic background is rich in mathematics and data science. I enjoy leveraging mathematical concepts to solve complex problems and create innovative solutions. My research and projects often revolve around data analysis, algorithm development, and machine learning.
+- **Mathematics and Data Science**: I've always been drawn to math and data science, using them to tackle problems and create practical solutions. Along the way, I picked up front-end development and model deployment because I wanted to share what I’ve built with others.
 
 - **[Data Preparation Tool](https://github.com/williamdwinnell/task_zero)**: I developed a comprehensive data preparation tool designed to streamline the data cleaning and preprocessing workflow. This tool aims to assist data scientists and analysts in handling large datasets more efficiently, ensuring high-quality data for analysis and model training.
 
